@@ -10,5 +10,6 @@ Three recommended data sets are made available for this project. The file Prelim
 
 ## References
 Brown, Bryce, "Predictive Analytics for College Basketball: Using Logistic Regression for Determining the Outcome of a Game" (2019). Honors Theses and Capstones. 475. https://scholars.unh.edu/honors/475
+
 Hoskin, Tanya, "Parametric and Nonparametric: Demystifying the Terms". Mayo Clinic Department of Health Sciences Research.
 
